@@ -20,13 +20,13 @@ Heroku deployment:(https://acebook-team-tank-engine.herokuapp.com/)
 - Make an account, write posts and leave intellectually stimulating comments!
 
 ## Who is Team Tank Engine?
-[Jade Alvares](https://github.com/jjadeseravla)
+Jade Alvares[@jjadeseravla](https://github.com/jjadeseravla)
 
-[Dom McDonnell](https://github.com/dmcd84)
+Dom McDonnell[@dmcd84](https://github.com/dmcd84)
 
-[Kye Bracey](https://github.com/Kynosaur)
+Kye Bracey[@Kynosaur](https://github.com/Kynosaur)
 
-[Jenny Wem](https://github.com/wemmm)
+Jenny Wem[@wemm](https://github.com/wemmm)
 
 ## Technologies
 
